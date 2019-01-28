@@ -1,0 +1,11 @@
+C:\vscode\glosor-proj\server\GlosorWebAPI\GlosorWebAPI\bin\Debug\netcoreapp2.0\GlosorWebAPI.deps.json
+C:\vscode\glosor-proj\server\GlosorWebAPI\GlosorWebAPI\bin\Debug\netcoreapp2.0\GlosorWebAPI.runtimeconfig.json
+C:\vscode\glosor-proj\server\GlosorWebAPI\GlosorWebAPI\bin\Debug\netcoreapp2.0\GlosorWebAPI.runtimeconfig.dev.json
+C:\vscode\glosor-proj\server\GlosorWebAPI\GlosorWebAPI\bin\Debug\netcoreapp2.0\GlosorWebAPI.dll
+C:\vscode\glosor-proj\server\GlosorWebAPI\GlosorWebAPI\bin\Debug\netcoreapp2.0\GlosorWebAPI.pdb
+C:\vscode\glosor-proj\server\GlosorWebAPI\GlosorWebAPI\obj\Debug\netcoreapp2.0\GlosorWebAPI.csprojAssemblyReference.cache
+C:\vscode\glosor-proj\server\GlosorWebAPI\GlosorWebAPI\obj\Debug\netcoreapp2.0\GlosorWebAPI.csproj.CoreCompileInputs.cache
+C:\vscode\glosor-proj\server\GlosorWebAPI\GlosorWebAPI\obj\Debug\netcoreapp2.0\GlosorWebAPI.AssemblyInfoInputs.cache
+C:\vscode\glosor-proj\server\GlosorWebAPI\GlosorWebAPI\obj\Debug\netcoreapp2.0\GlosorWebAPI.AssemblyInfo.cs
+C:\vscode\glosor-proj\server\GlosorWebAPI\GlosorWebAPI\obj\Debug\netcoreapp2.0\GlosorWebAPI.dll
+C:\vscode\glosor-proj\server\GlosorWebAPI\GlosorWebAPI\obj\Debug\netcoreapp2.0\GlosorWebAPI.pdb
